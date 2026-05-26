@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=manass2268&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=manass2268&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manass2268&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![]([https://github-readme-stats.vercel.app/api/top-langs/?username=manass2268&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compat](https://api.github.com/repos/manass2268/PennyDrop-App/releases))
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
