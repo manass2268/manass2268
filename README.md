@@ -8,9 +8,9 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=manass2268&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![](https://github-readme-stats.vercel.app/api?username=manass2268&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=manass2268&theme=blue-green&hide_border=false)<br/>
-![]([https://github-readme-stats.vercel.app/api/top-langs/?username=manass2268&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compat](https://api.github.com/repos/manass2268/PennyDrop-App/releases))
+![]([https://github-readme-stats.vercel.app/api/top-langs/?username=manass2268&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compat](https://api.github.com/repos/manass2268/PennyDrop-App/releases))](https://somsubhra.github.io/github-release-stats/?username=manass2268&repository=PennyDrop-App&page=1&per_page=10)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
