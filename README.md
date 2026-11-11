@@ -91,9 +91,10 @@ Status     : ● Building something new...
 
 ## `05 // CONTRIBUTION_ACTIVITY`
 
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manass2268&bg_color=090014&color=00E5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://raw.githubusercontent.com/manass2268/manass2268/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
 
 </div>
 
