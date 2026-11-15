@@ -1,68 +1,150 @@
-<h1 align="center">Hi 👋, I'm Manas Singh</h1>
-<h3 align="center">Full-Stack & Android Developer | BCA Student</h3>
+from pathlib import Path
 
-<p align="center">
-  <a href="PORTFOLIO_LINK_HERE"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"></a>
-  <a href="LINKEDIN_LINK_HERE"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:support@msworks.tech"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+readme = r'''<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:111827,100:164E63&height=190&section=header&text=MANAS%20SINGH&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20BCA%20STUDENT&descSize=14&descColor=67E8F9&descAlignY=60" />
+
+<p>
+  <a href="https://manass2268.github.io/manas-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=googlechrome&logoColor=67E8F9" /></a>
+  <a href="https://github.com/manass2268"><img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=F8FAFC" /></a>
 </p>
+
+### I build software that solves practical problems.
+
+*Web applications · Android development · Privacy-first technology*
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## `01 / PROFILE`
 
-- 🎓 Second-year **BCA student** at Krishna Institute of Technology, Kanpur.
-- 💡 Passionate about building scalable web apps and secure Android applications.
-- 🚀 Currently building **[Sutraa](https://github.com/manass2268/Sutra)**, a secure private messaging platform.
-- 🛠️ Actively working with **Node.js, React, Next.js, and Jetpack Compose**.
-- 📝 Exploring system design and writing clean, maintainable code.
+I'm **Manas**, a BCA student who enjoys turning ideas into working products. I work across frontend, backend and Android development, with a growing interest in application architecture, security and locally-run AI.
 
-## 💻 Tech Stack
+- Building products that are useful beyond a demo.
+- Learning by designing, developing, testing and improving real projects.
+- Interested in clean interfaces, reliable systems and privacy-conscious software.
 
-**Frontend:** <br>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+---
 
-**Backend & Database:** <br>
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+## `02 / SELECTED WORK`
 
-**Android & Core:** <br>
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🚀 Featured Projects
+<h3>01. Sutraa</h3>
 
-| Project | Description | Technologies |
-|---|---|---|
-| **[Sutraa](https://github.com/manass2268/Sutra)** | Secure private communication and workspace platform. | Node.js, Firebase, MongoDB |
-| **DocuMind** | AI-driven app for parsing and explaining study documents. | React, Next.js, Python |
-| **PennyDrop** | Personal finance tracker with biometric authentication. | Kotlin, Jetpack Compose, Room |
-| **Streamify** | Online video streaming with synchronized watch parties. | Node.js, Socket.io, Firebase |
+A private communication platform built around controlled access and privacy-focused messaging.
 
-## 📊 GitHub Stats
+`WEB` `AUTHENTICATION` `MESSAGING`
+
+<a href="https://github.com/manass2268/Sutra">Explore repository ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>02. DocuMind</h3>
+
+An education-focused assistant concept for understanding documents, extracting knowledge and creating study notes.
+
+`REACT` `VITE` `DOCUMENT AI`
+
+<a href="https://github.com/manass2268/documind-frontend">Frontend ↗</a> · <a href="https://documinds-ai.vercel.app/">Live preview ↗</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>03. PennyDrop</h3>
+
+An Android finance tracker for recording transactions and understanding everyday spending.
+
+`KOTLIN` `JETPACK COMPOSE` `ROOM`
+
+<a href="https://github.com/manass2268/PennyDrop-App">Explore repository ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>04. Streamify</h3>
+
+An OTT-style web platform concept with subscription tiers and a watch-party experience.
+
+`REACT` `WEB DEVELOPMENT` `UI/UX`
+
+<a href="https://github.com/manass2268/STREAMIFY">Explore repository ↗</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `03 / TOOLKIT`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manass2268&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=777777" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manass2268&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=777777" alt="GitHub Streak" width="48%" />
+
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,kotlin&theme=dark" />
+
+**WEB & BACKEND**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,nodejs,php,flask&theme=dark" />
+
+**DATA, PLATFORM & TOOLS**
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,git,github,gitlab,vscode,androidstudio,vercel&theme=dark" />
+
 </div>
 
-<br>
+---
+
+## `04 / GITHUB OVERVIEW`
 
 <div align="center">
-  <!-- Clean Contribution Snake -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manass2268/manass2268/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manass2268/manass2268/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/manass2268/manass2268/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+
+<a href="https://github.com/manass2268">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manass2268&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=67E8F9&text_color=C9D1D9&rank_icon=github" alt="Manas's GitHub statistics" />
+</a>
+<a href="https://github.com/manass2268">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manass2268&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9" alt="Most used programming languages" />
+</a>
+
+<br />
+
+<img width="82%" src="https://streak-stats.demolab.com?user=manass2268&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+
 </div>
+
+---
+
+## `05 / NOW`
+
+| Focus | What I'm doing |
+|:--|:--|
+| **Sutraa** | Developing the core product and improving its architecture |
+| **Backend** | Strengthening API design, authentication and data handling |
+| **AI & documents** | Exploring privacy-first and local document workflows |
+| **Android** | Improving app structure and user experience |
+
+---
+
+<div align="center">
+
+### HAVE AN IDEA? LET'S BUILD IT.
+
+I'm always interested in learning, collaborating and making useful things.
+
+<a href="https://manass2268.github.io/manas-portfolio/"><img src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-164E63?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://github.com/manass2268"><img src="https://img.shields.io/badge/FOLLOW%20ON%20GITHUB-1F2937?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<sub>Curiosity → Code → Iteration</sub>
+
+</div>
+'''
+path = Path("/mnt/data/README.md")
+path.write_text(readme, encoding="utf-8")
+print(f"Created {path} ({len(readme)} characters)")
