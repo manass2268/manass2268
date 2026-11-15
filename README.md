@@ -1,5 +1,4 @@
-from pathlib import Path
-readme = r'''<div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,75:164e63,100:0891b2&height=230&section=header&text=MANAS%20SINGH&fontSize=55&fontColor=ffffff&fontAlignY=36&desc=DEVELOPER%20%20%E2%80%A2%20%20BUILDER%20%20%E2%80%A2%20%20PROBLEM%20SOLVER&descAlignY=59&descSize=15&descColor=a5f3fc&animation=fadeIn" alt="Manas Singh — developer" />
 
@@ -138,7 +137,4 @@ I build practical software and enjoy working across interfaces, APIs, databases,
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:164e63,100:020617&height=110&section=footer" alt="Footer decoration" />
 
 </div>
-'''
-p=Path('/mnt/data/README.md')
-p.write_text(readme,encoding='utf-8')
-print(p, p.stat().st_size)
+
