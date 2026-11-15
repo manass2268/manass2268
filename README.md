@@ -1,125 +1,68 @@
-content = r'''<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101827,100:172554&height=180&section=header&text=MANAS%20SINGH&fontSize=48&fontColor=F8FAFC&fontAlignY=42&desc=SOFTWARE%20DEVELOPER%20%7C%20BCA%20STUDENT&descSize=15&descColor=67E8F9&descAlignY=68" width="100%" />
-
-### Building useful software, one idea at a time.
-
-[Portfolio](https://manass2268.github.io/manas-portfolio/) · [GitHub](https://github.com/manass2268) · [LinkedIn](https://www.linkedin.com/)
-
+<div align="center">
+  <h1>Hi there, I'm Manas Singh! 👋</h1>
+  <h3>Building useful software, one idea at a time.</h3>
+  <p>BCA Student | Full-Stack & Android Developer</p>
+  <p>
+    <a href="PORTFOLIO_LINK_HERE">Portfolio</a> •
+    <a href="LINKEDIN_LINK_HERE">LinkedIn</a> •
+    <a href="mailto:support@msworks.tech">Email</a>
+  </p>
 </div>
 
 ---
 
-## About
+## 🚀 About Me
+- 🎓 Second-year BCA student at Krishna Institute of Technology, Kanpur.
+- 💻 I enjoy exploring how software works end-to-end — from interface design to backend logic and deployment.
+- 🔭 Currently building **[Sutraa](https://github.com/manass2268/Sutra)**, a private communication platform.
+- 🌱 Deepening my skills in **Android** and **Full-stack architecture**.
+- ⚡ Fun fact: I write Hindi & Urdu poetry and love a good cricket quiz!
 
-I'm Manas, a BCA student and developer interested in building practical applications across web and Android. I enjoy exploring how software works end-to-end — from interface design and backend logic to data and deployment.
+## 🛠️ Technologies & Tools
 
-- Currently building **Sutraa**, a private communication platform.
-- Exploring privacy-first AI and educational tools.
-- Interested in full-stack development, Android and software architecture.
+**Languages**<br>
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
-## Selected projects
+**Frontend & Backend**<br>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Databases & Tools**<br>
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
-### Sutraa
-A private messaging platform focused on controlled access, secure communication and user privacy.
+## 💻 Selected Projects
 
-**Focus:** Web · Authentication · Messaging
+| Project | Description | Tech Stack |
+|---|---|---|
+| **[Sutraa](https://github.com/manass2268/Sutra)** | Private messaging platform focused on controlled access and security. | Web, Node.js, Firebase, MongoDB |
+| **DocuMind** | AI-driven educational app to parse and explain study documents. | React, Next.js, Python |
+| **PennyDrop** | Android personal finance tracker with biometric security. | Kotlin, Jetpack Compose, Room |
+| **Streamify** | Video streaming platform with synchronized watch party rooms. | Node.js, Socket.io, Firebase |
 
-[Repository →](https://github.com/manass2268/Sutra)
-
-</td>
-<td width="50%" valign="top">
-
-### DocuMind
-An educational assistant concept for understanding study material, working with PDFs and creating useful notes.
-
-**Focus:** React · Vite · AI · Document workflows
-
-[Frontend →](https://github.com/manass2268/documind-frontend) · [Live site →](https://documinds-ai.vercel.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### PennyDrop
-An Android personal finance tracker for recording income, expenses and reviewing spending.
-
-**Focus:** Kotlin · Jetpack Compose · Room
-
-[Repository →](https://github.com/manass2268/PennyDrop-App)
-
-</td>
-<td width="50%" valign="top">
-
-### Streamify
-An OTT-style platform concept with subscription plans and a watch-party experience.
-
-**Focus:** React · Web development
-
-[Repository →](https://github.com/manass2268/STREAMIFY)
-
-</td>
-</tr>
-</table>
-
-## Technologies
+## 📈 GitHub Stats
 
 <div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,kotlin&theme=dark" alt="Python, Java, C, C++, JavaScript and Kotlin" />
-
-**Frontend and backend**
-
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,nodejs,php,flask&theme=dark" alt="HTML, CSS, React, Vite, Tailwind, Node.js, PHP and Flask" />
-
-**Databases and tools**
-
-<img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,git,github,gitlab,vscode,androidstudio,vercel&theme=dark" alt="MySQL, Firebase, MongoDB, Git, GitHub, GitLab, VS Code, Android Studio and Vercel" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=manass2268&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manass2268&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
-
-## GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=manass2268&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manass2268&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=CBD5E1" alt="Most used languages" />
-
-<br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=manass2268&hide_border=true&background=0D1117&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub contribution streak" />
-
-</div>
-
-## Currently working on
-
-- Improving Sutraa's architecture and core messaging experience.
-- Learning to build reliable, maintainable backend systems.
-- Exploring local AI workflows and document understanding.
-- Strengthening Android and full-stack development skills.
 
 ---
-
 <div align="center">
-
-### Let's connect
-
-Open to learning, collaboration and building meaningful projects.
-
-[Portfolio](https://manass2268.github.io/manas-portfolio/) · [GitHub](https://github.com/manass2268)
-
-<sub>Designed with purpose. Built with curiosity.</sub>
-
+  <i>Designed with purpose. Built with curiosity.</i><br>
+  Open to learning, collaboration and building meaningful projects.
 </div>
-'''
-path = "/mnt/data/README.md"
-with open(path, "w", encoding="utf-8") as f:
-    f.write(content)
-print("Created refined README:", path)
